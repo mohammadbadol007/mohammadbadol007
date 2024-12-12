@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/notsopreety">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Welcome+to+BADOL-GITHUB;+Messenger+Bot+Developer+By+Mohammad +Badol;">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Welcome+to+BADOL-GITHUB;+All+Bot+Developer+By+Mohammad +Badol;">
   </a>
 </p>
 
