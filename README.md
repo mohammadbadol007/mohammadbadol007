@@ -1,4 +1,4 @@
-<h1 align="center">MOHAMMAD-BADOL - A Fully Customizable M9H4MM4D-B4D9L</h1>
+<h1 align="center">MOHAMMAD-BADOL - Bot Developer M9H4MM4D-B4D9L</h1>
 
 <p align="center">
   <a href="https://github.com/notsopreety">
